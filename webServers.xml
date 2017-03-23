@@ -1,0 +1,73 @@
+<application>
+  <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hostKeyCheckingLevel="NO">
+        <option name="hostKeyCheckingLevel" value="NO" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="f4043ae7-482e-4022-812e-39de364e8819" name="homestead" url="http://127.0.0.1:8000">
+        <fileTransfer host="127.0.0.1" port="2222" privateKey="C:\Users\Maizer\.ssh\homestead_private.ppk" rootFolder="/home/vagrant" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8cd4ec77-3326-43bb-8aca-1e4894b04965" name="sysup-teste" url="http://iedusis.com">
+        <fileTransfer host="sysup-teste" port="22" rootFolder="/home/nhamakazi-teste" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5efe4955-2b4d-418d-b133-1cf0104f42a6" name="sigeup.up.ac.mz" url="https://www.sigeup.up.ac.mz">
+        <fileTransfer host="196.3.99.106" port="22" privateKey="C:\Users\Maizer\.ssh\sigeup.ppk" rootFolder="/home/nhamakazi" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="abc4e969-22a8-436a-b77a-6cea0cb85f21" name="bowery" url="http://104.197.13.224">
+        <fileTransfer host="104.197.13.224" port="23" rootFolder="/root" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="23" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="65d19551-c38e-4f59-a476-01e905bfff93" name="ngrok.com" url="https://certifa.ngrok.com">
+        <fileTransfer host="ngrok.com" port="47734" rootFolder="/home/nhamakazi-teste" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="47734" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="22aad2ef-f6b9-4c42-815a-0b0a98c05b0f" name="dev.sigeup" url="http://dev.sigeup.up.ac.mz">
+        <fileTransfer host="dev.sigeup.up.ac.mz" port="22" privateKey="C:\Users\Maizer\.ssh\41.94.18.4.ppk" rootFolder="/home/xilhamalisu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6d342225-94ad-46d0-b2c1-58d71285c19a" name="iedusis" url="http://iedusis.app">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f591b302-d164-4e81-a5ff-7b421875243e" name="sigeup41" url="https://www.sigeup.up.ac.mz">
+        <fileTransfer host="41.94.18.2" port="22" privateKey="C:\Users\Maizer\.ssh\sigeup.ppk" rootFolder="/home/nhamakazi" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="191dc643-fc6b-4eec-a2d0-f58245e0d13f" name="angular" url="http://ivendas:8000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

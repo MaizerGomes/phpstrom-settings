@@ -1,0 +1,5 @@
+<application>
+  <component name="Vue">
+    <option name="nodeInterpreter" value="/usr/bin/node" />
+  </component>
+</application>

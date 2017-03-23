@@ -1,0 +1,7 @@
+<templateSet group="Zen CSS">
+  <template name="d:rbtg" value="display:ruby-text-group;" description="display:ruby-text-group;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
