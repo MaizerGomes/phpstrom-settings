@@ -11,6 +11,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="rest" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
