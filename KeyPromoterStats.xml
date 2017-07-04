@@ -1,0 +1,12 @@
+<application>
+  <component name="KeyPromoterStats">
+    <option name="stats">
+      <map>
+        <entry key="'Alt+Shift+Insert'" value="2" />
+        <entry key="'Ctrl+Alt+Shift+V'" value="1" />
+        <entry key="'Ctrl+Shift+V' or 'Ctrl+Shift+Insert'" value="1" />
+        <entry key="'Ctrl+V' or 'Shift+Insert'" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
