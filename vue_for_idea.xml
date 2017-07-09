@@ -1,5 +1,6 @@
 <application>
   <component name="Vue">
+    <option name="vueExePath" value="$USER_HOME$/.npm-global/bin/vue" />
     <option name="nodeInterpreter" value="/usr/bin/node" />
   </component>
 </application>
