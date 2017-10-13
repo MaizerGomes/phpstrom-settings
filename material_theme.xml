@@ -4,6 +4,8 @@
     <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="80cbc4" />
     <option name="statusBarTheme" value="false" />
+    <option name="isMaterialTheme" value="false" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="$USER_HOME$/Code/webekutiva/ekuschool/WhatsApp Image 2017-04-22 at 22.24.46.jpeg,12,scale,center" />
   </component>
 </application>
