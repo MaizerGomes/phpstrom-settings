@@ -1,4 +1,7 @@
 <scheme name="Earthsong copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="CONSOLE_FONT_NAME" value="Roboto Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="10" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
