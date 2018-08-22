@@ -1,23 +1,17 @@
 <application>
   <component name="MessDetector">
-    <phpmd_settings>
-      <MessDetectorConfiguration />
-    </phpmd_settings>
+    <phpmd_settings_migrated />
   </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration />
-    </phpcs_settings>
+    <phpcs_settings_migrated />
   </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="C:/php/old2/php.exe" id="b2b6872f-1bbd-460c-be39-23db63c4793d" name="PHP 5.6.3" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\php\php-cgi.exe" id="6cf22d1f-78bd-4404-81de-f9c6fb3c62d1" name="PHP 7" debugger_id="php.debugger.XDebug" />
       <interpreter home="C:\php\old2\old\php.exe" id="752ca341-1df1-4a0b-ae7a-1c079e0d5dbe" name="PHP 5.6.12" debugger_id="php.debugger.XDebug" />
-      <interpreter home="ssh://vagrant@127.0.0.1:2222/usr/bin/php" id="89acfe72-ea80-4b36-8c4a-03ca2b53aa38" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
+      <interpreter home="ssh://vagrant@127.0.0.1:2222/usr/bin/php" id="89acfe72-ea80-4b36-8c4a-03ca2b53aa38" name="Remote PHP 7" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/bin/php" id="c0eb600a-b8a9-4e77-98fa-aefde1da7461" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
