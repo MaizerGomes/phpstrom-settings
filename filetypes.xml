@@ -6,8 +6,8 @@
       <mapping ext="sqlite" type="Native" />
       <mapping pattern="installed" type="PLAIN_TEXT" />
       <mapping pattern="2c6d38a87e3757a2cbadb8855ad3e9f0528f4ff6" type="PLAIN_TEXT" />
-      <mapping pattern=".core.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="tes" type="PLAIN_TEXT" />
+      <mapping pattern=".core.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="sq;" type="PLAIN_TEXT" />
