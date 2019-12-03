@@ -7,15 +7,15 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".core.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="installed" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="ekuschool" type="PLAIN_TEXT" />
-      <mapping ext="sq;" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
+      <mapping ext="sq;" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
