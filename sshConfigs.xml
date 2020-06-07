@@ -309,6 +309,13 @@
       <sshConfig authType="PASSWORD" host="ngrok.com" id="f8e0c1e1-2993-453e-b550-da30fb2544c4" port="47734" customName="ngrok.com" nameFormat="CUSTOM" />
       <sshConfig host="dev.sigeup.up.ac.mz" id="e646a451-97da-44ad-aaa2-e4f757b8c677" keyPath="C:\Users\Maizer\.ssh\41.94.18.4.ppk" port="22" customName="dev.sigeup" nameFormat="CUSTOM" />
       <sshConfig host="41.94.18.2" id="b5397c91-d5ef-4c95-a3ca-583cfc77d569" keyPath="C:\Users\Maizer\.ssh\sigeup.ppk" port="22" customName="sigeup41" nameFormat="CUSTOM" />
+      <sshConfig host="127.0.0.1" id="ea2f078a-bcbc-43d8-9c04-2665a28e3560" keyPath="C:\Users\Maizer\.ssh\homestead_private.ppk" port="2222" customName="homestead" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="sysup-teste" id="539122e5-61ec-47e9-b80f-225683291524" port="22" customName="sysup-teste" nameFormat="CUSTOM" />
+      <sshConfig host="196.3.99.106" id="576ae1c4-e43b-4987-8d3c-64e2ae12420a" keyPath="C:\Users\Maizer\.ssh\sigeup.ppk" port="22" customName="sigeup.up.ac.mz" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="104.197.13.224" id="0e21b01e-614c-4bf5-8961-9cb45e1f6853" port="23" customName="bowery" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="ngrok.com" id="a4eb9f09-0017-4c8e-8529-a3f30f8ca6e6" port="47734" customName="ngrok.com" nameFormat="CUSTOM" />
+      <sshConfig host="dev.sigeup.up.ac.mz" id="266f6aad-f1d1-4353-994b-f78ea7df4146" keyPath="C:\Users\Maizer\.ssh\41.94.18.4.ppk" port="22" customName="dev.sigeup" nameFormat="CUSTOM" />
+      <sshConfig host="41.94.18.2" id="17c6e345-6b82-43b7-9094-694471cc62e1" keyPath="C:\Users\Maizer\.ssh\sigeup.ppk" port="22" customName="sigeup41" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
