@@ -11,6 +11,7 @@
       <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="ekuschool" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
