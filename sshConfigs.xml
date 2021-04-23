@@ -1,25 +1,25 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="127.0.0.1" id="eb9d6624-4026-4d70-add7-f92c6a021ea6" keyPath="C:\Users\Maizer\.ssh\homestead_private.ppk" port="2222" customName="homestead" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="127.0.0.1" id="eb9d6624-4026-4d70-add7-f92c6a021ea6" keyPath="C:\Users\Maizer\.ssh\homestead_private.ppk" port="2222" customName="homestead" nameFormat="CUSTOM">
         <option name="customName" value="homestead" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="sysup-teste" id="85fb0589-e56f-4278-bb58-81363b6e614d" port="22" customName="sysup-teste" nameFormat="CUSTOM" username="nhamakazi-teste">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="sysup-teste" id="85fb0589-e56f-4278-bb58-81363b6e614d" port="22" customName="sysup-teste" nameFormat="CUSTOM" username="nhamakazi-teste">
         <option name="customName" value="sysup-teste" />
       </sshConfig>
-      <sshConfig host="196.3.99.106" id="22ad2ae8-c0c3-4ed4-b1ca-00df389026e6" keyPath="C:\Users\Maizer\.ssh\sigeup.ppk" port="22" customName="sigeup.up.ac.mz" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="196.3.99.106" id="22ad2ae8-c0c3-4ed4-b1ca-00df389026e6" keyPath="C:\Users\Maizer\.ssh\sigeup.ppk" port="22" customName="sigeup.up.ac.mz" nameFormat="CUSTOM">
         <option name="customName" value="sigeup.up.ac.mz" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="104.197.13.224" id="846b89e8-d54c-4a43-8da8-67472cf69a67" port="23" customName="bowery" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="104.197.13.224" id="846b89e8-d54c-4a43-8da8-67472cf69a67" port="23" customName="bowery" nameFormat="CUSTOM">
         <option name="customName" value="bowery" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="ngrok.com" id="9d0f06c3-0af7-43dc-ab0e-1412df51b583" port="47734" customName="ngrok.com" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="ngrok.com" id="9d0f06c3-0af7-43dc-ab0e-1412df51b583" port="47734" customName="ngrok.com" nameFormat="CUSTOM">
         <option name="customName" value="ngrok.com" />
       </sshConfig>
-      <sshConfig host="dev.sigeup.up.ac.mz" id="29b3dd3a-386f-40ab-90c6-303f2aa11a46" keyPath="C:\Users\Maizer\.ssh\41.94.18.4.ppk" port="22" customName="dev.sigeup" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev.sigeup.up.ac.mz" id="29b3dd3a-386f-40ab-90c6-303f2aa11a46" keyPath="C:\Users\Maizer\.ssh\41.94.18.4.ppk" port="22" customName="dev.sigeup" nameFormat="CUSTOM">
         <option name="customName" value="dev.sigeup" />
       </sshConfig>
-      <sshConfig host="41.94.18.2" id="03223d41-e4a8-41c6-9374-12b2cf116d04" keyPath="C:\Users\Maizer\.ssh\sigeup.ppk" port="22" customName="sigeup41" nameFormat="CUSTOM">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="41.94.18.2" id="03223d41-e4a8-41c6-9374-12b2cf116d04" keyPath="C:\Users\Maizer\.ssh\sigeup.ppk" port="22" customName="sigeup41" nameFormat="CUSTOM">
         <option name="customName" value="sigeup41" />
       </sshConfig>
       <sshConfig host="127.0.0.1" id="bc19b6fb-f175-45c1-840d-3ec6984ef1f9" keyPath="C:\Users\Maizer\.ssh\homestead_private.ppk" port="2222" customName="homestead" nameFormat="CUSTOM">
