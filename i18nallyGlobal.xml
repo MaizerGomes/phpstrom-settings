@@ -1,6 +1,8 @@
 <application>
   <component name="i18nAllyGlobalConfiguration">
+    <option name="pluginDisabled" value="true" />
     <installId>7a8ebae9-9507-4c95-842c-a7608dacd6ad</installId>
     <freshInstall>false</freshInstall>
+    <isPluginDisabled>true</isPluginDisabled>
   </component>
 </application>
