@@ -25,7 +25,7 @@
       <sshConfig host="127.0.0.1" id="bc19b6fb-f175-45c1-840d-3ec6984ef1f9" keyPath="C:\Users\Maizer\.ssh\homestead_private.ppk" port="2222" customName="homestead" nameFormat="CUSTOM">
         <option name="customName" value="homestead" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="sysup-teste" id="ddec19c0-ed6b-4d35-b77f-3118c64852dd" port="22" customName="sysup-teste" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="sysup-teste" id="ddec19c0-ed6b-4d35-b77f-3118c64852dd" port="22" customName="sysup-teste" nameFormat="CUSTOM">
         <option name="customName" value="sysup-teste" />
       </sshConfig>
       <sshConfig host="196.3.99.106" id="57f37126-0f9b-4b7c-acb2-28197459d9db" keyPath="C:\Users\Maizer\.ssh\sigeup.ppk" port="22" customName="sigeup.up.ac.mz" nameFormat="CUSTOM">
